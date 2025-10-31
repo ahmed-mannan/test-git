@@ -1,3 +1,4 @@
 working directory -> stagging area -> local repo. -> remote repo. 
 test-project -> git add -> git commit -> git push
 this is just a test that im learning from udemy course github
+starting to learn about github
